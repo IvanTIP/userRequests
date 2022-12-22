@@ -15,7 +15,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9887a2e4-9b4e-4534-9c0b-5749775d9b5b" name="Changes" comment="" />
+    <list default="true" id="9887a2e4-9b4e-4534-9c0b-5749775d9b5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cmake-build-debug/_deps/cpr-src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="2J97634mrKois5XqwSvNMNc7gQJ" />
@@ -97,7 +100,7 @@
       <workItem from="1671566845951" duration="183000" />
       <workItem from="1671568821652" duration="806000" />
       <workItem from="1671684028705" duration="118000" />
-      <workItem from="1671687307112" duration="363000" />
+      <workItem from="1671687307112" duration="938000" />
     </task>
     <servers />
   </component>
